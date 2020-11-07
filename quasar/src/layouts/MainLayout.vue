@@ -30,7 +30,7 @@
           header
           class="text-grey-8"
         >
-          Essential Links
+          Rapinas da Mata
         </q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
@@ -51,10 +51,16 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksData = [
   {
-    title: 'Home',
+    title: 'Início',
     caption: '',
     icon: 'home',
     link: '/'
+  },
+  {
+    title: 'Scanear',
+    caption: '',
+    icon: 'qr_code_scanner',
+    link: '/scan'
   }
 ]
 
