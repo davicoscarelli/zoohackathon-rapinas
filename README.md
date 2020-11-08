@@ -11,5 +11,5 @@ If you want to test it please go to the following links:
 Here is an example of a qr-code for a documment validation with the platform:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48040161/89069876-642e0680-d34a-11ea-9528-1d3182e29c2f.png">
+  <img src="https://user-images.githubusercontent.com/48040161/98483696-e5febd00-21e0-11eb-9fdb-c3eab0f32d6c.png">
 </p>
