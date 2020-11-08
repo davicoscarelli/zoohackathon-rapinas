@@ -15,9 +15,10 @@ Here is an example of a qr-code for a documment validation with the platform:
 </p>
 
 
-## Build with
+## Built with
 
 - [Quasar](https://quasar.dev/) - Quasar Framework
+- [VueJs](https://vuejs.org/) - Quasar Framework
 - [ReactJs](https://reactjs.org/) - Reactjs Library
 - [Firebase](https://firebase.google.com/) - Firebase
 - [Leaflet](https://leafletjs.com/) - Leaflet
